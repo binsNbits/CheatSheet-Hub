@@ -1,0 +1,17 @@
+data types
+variables
+constants
+lists
+maps
+-- any other data structures im missing --
+functions
+OOP
+'late'
+'!' 
+arguments --> optional, required, positional, named, default
+exceptions
+generics
+null saftey
+required
+static
+ternary
